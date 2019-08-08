@@ -2,23 +2,16 @@ www
 rrr
 ttt
 4 row
-<<<<<<< HEAD
-5 row
-
-
-
-
 5  ro
->>>>>>> 08236fa41a708b44fd16a5c799fc224a9c22c862
-===================================
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
 Life is complicated
 Perhaps here thing will be different
+
 
 White shirt now red, my bloody nose
 Белая блузка теперь красная, мой нос кровит.
 Sleepin', you're on your tippy toes
 Сплю, а ты на цыпочках 
 Creepin' around like no one knows
-
+Yeah, I'm gonna take my horse to the old town road
 
